@@ -1,12 +1,12 @@
-# PARTYsoc
+PARTYsoc
 # A statistical model partitioning soil organic carbon (SOC) into its centennially active and stable fractions based on Rock-Eval thermal analysis
+[![DOI](https://zenodo.org/badge/319097495.svg)](https://zenodo.org/badge/latestdoi/319097495)
 
 ## USER MANUAL
 
 #### This short manual and the R scripts, R data file and csv file provided in this repository accompany the draft: "Partitioning soil organic carbon into its centennially active and stable fractions with statistical models based on Rock-Eval® thermal analysis (PARTYsocv2.0 and PARTYsocv2.0eu)"
 #### Submitted to Geoscientific Model Development by Lauric Cécillon et al.
 #### Contact e-mail: lauric.cecillon@inrae.fr
-[![DOI](https://zenodo.org/badge/319097495.svg)](https://zenodo.org/badge/latestdoi/319097495)
 
 #### The part 1 of the R script entitled "importing_rock-eval_data_computing_rock-eval_parameters_GMD" can be used to extract Rock-Eval data from raw Rock-Eval 6 files (R.00 and S.00).
 
