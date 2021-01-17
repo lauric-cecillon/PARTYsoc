@@ -1,5 +1,6 @@
 # PARTYsoc
 ## A statistical model partitioning soil organic carbon (SOC) into its centennially active and stable fractions based on Rock-Eval thermal analysis
+#### Second version: PARTYsocv2.0 and PARTYsocv2.0eu
 [![DOI](https://zenodo.org/badge/319097495.svg)](https://zenodo.org/badge/latestdoi/319097495)
 
 ### USER MANUAL
