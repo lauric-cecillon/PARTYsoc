@@ -3,7 +3,7 @@
 
 ## USER MANUAL
 
-https://zenodo.org/badge/doi/10.5281/zenodo.4446138.svg
+[![DOI](https://zenodo.org/badge/319097495.svg)](https://zenodo.org/badge/latestdoi/319097495)
 
 #### This short manual and the R scripts, R data file and csv file provided in this repository accompany the draft: "Partitioning soil organic carbon into its centennially active and stable fractions with statistical models based on Rock-Eval® thermal analysis (PARTYsocv2.0 and PARTYsocv2.0eu)"
 #### Submitted to Geoscientific Model Development by Lauric Cécillon et al.
