@@ -3,7 +3,7 @@
 
 ## USER MANUAL
 
-#### This short manual and the R scripts, R data file and csv file provided in this repository accompany the draft: "Partitioning soil organic carbon into its centennially active and stable fractions with statistical models based on Rock-Eval® thermal analysis (PARTYSOCv2.0 and PARTYSOCv2.0EU)"
+#### This short manual and the R scripts, R data file and csv file provided in this repository accompany the draft: "Partitioning soil organic carbon into its centennially active and stable fractions with statistical models based on Rock-Eval® thermal analysis (PARTYsocv2.0 and PARTYsocv2.0eu)"
 #### Submitted to Geoscientific Model Development by Lauric Cécillon et al.
 #### Contact e-mail: lauric.cecillon@inrae.fr
 
